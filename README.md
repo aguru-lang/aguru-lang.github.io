@@ -1,2 +1,2 @@
 # aguru-lang.github.io
-Official website
+Website for the aguru Programming Language
